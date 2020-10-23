@@ -5,7 +5,9 @@
   height: 100px;
   
 }
-
+a{
+  color:white;
+}
 
 .chart-skills span {
   position: absolute;
